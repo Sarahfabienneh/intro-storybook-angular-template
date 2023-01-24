@@ -8,7 +8,7 @@ import { Task } from './task.model';
 // 	templateUrl: './doc-checkbox.component.html'
 
 @Component({
-	selector: 'task',
+	selector: 'app-task',
 	templateUrl: './task.component.html' 
 })
 
